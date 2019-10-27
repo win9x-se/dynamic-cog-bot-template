@@ -1,3 +1,0 @@
-prefix: n!
-autoload_cogs:
-  - sample_cog
